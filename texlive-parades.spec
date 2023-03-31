@@ -1,6 +1,6 @@
 Name:		texlive-parades
 Version:	40042
-Release:	1
+Release:	2
 Summary:	Tabulators and space between paragraphs in galley approach
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/parades
