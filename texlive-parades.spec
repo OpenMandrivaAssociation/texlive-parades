@@ -3,7 +3,7 @@ Version:	40042
 Release:	2
 Summary:	Tabulators and space between paragraphs in galley approach
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/parades
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/parades
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/parades.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/parades.doc.r%{version}.tar.xz
